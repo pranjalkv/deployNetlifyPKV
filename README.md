@@ -22,11 +22,11 @@
     <a href="https://github.com/pranjalkv/portfolioPKV"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pranjalkv.com">View Demo</a>
+    <a href="https://pranjalkv.netlify.app">View Demo</a>
     ·
-    <a href="https://pranjalkv.com">Report Bug</a>
+    <a href="https://pranjalkv.netlify.app">Report Bug</a>
     ·
-    <a href="https://pranjalkv.com">Request Feature</a>
+    <a href="https://pranjalkv.netlify.app">Request Feature</a>
   </p>
 </div>
 
